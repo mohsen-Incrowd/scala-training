@@ -1,4 +1,7 @@
 
+![ScalaLogo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Scala-full-color.svg/1200px-Scala-full-color.svg.png)
+
+
 # Scala Training
 
 This is a ramp up on scala language , where we will share best practices
@@ -78,7 +81,4 @@ and is popular in the fields of data science and distributed computing.
 ## Authors
 
 - [@Mohsen Abedelaal](https://github.com/mohsen-Incrowd)
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
