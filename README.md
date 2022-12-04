@@ -38,15 +38,38 @@ problems .
     - [Abstract](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/oop/AbstractDataTypes.scala)
     - [Method Notation](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/oop/MethodNotation.scala)
 
+ *  Patterns
+    - [All Patterns](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/paterns/AllPaterns.scala)
+    - [Match](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/paterns/Matching.scala)
+    - [Pattern EveryWhere](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/paterns/PaternEveryWhere.scala)
+
+ *  Concurrency
+    - [Future and Promises](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/concurrency/FutureAndPromises.scala)
+
+
+
+
+
+ 
+
+
+ 
+ 
+
+
+
+## Documentations and References
+
+- [Basic Tutorials For Scala](https://www.youtube.com/watch?v=TI4luLxI_n8&list=PL15cIG7aNbhtZxLafzxmld750BcFw-9Ek)
+- [Advance Tutorials For Scala](https://www.youtube.com/watch?v=tXaH7M--c9o&list=PL15cIG7aNbhshROiDuYpFTwoCRXeyBNYx)
+- [Playframework](https://www.playframework.com/documentation/2.8.x/Home)
+- [Anorm for our database queries and access](https://www.playframework.com/documentation/2.8.x/Anorm#Anorm)
+
+
 
 
 
 ## Authors
 
 - [@Mohsen Abedelaal](https://github.com/mohsen-Incrowd)
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
 
