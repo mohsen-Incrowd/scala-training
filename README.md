@@ -5,6 +5,12 @@ This is a ramp up on scala language , where we will share best practices
 and code snipts that will help you understand and solve your 
 problems .
 
+### What is Scala ?
+Scala is a programming language that is designed to be concise and scalable. 
+It is a general-purpose language that combines the features of object-oriented and functional programming paradigms, 
+allowing developers to write code that is both elegant and efficient. 
+Scala is often used for building large-scale, high-performance systems, 
+and is popular in the fields of data science and distributed computing.
 
 
 ## Covered Sections
@@ -64,7 +70,7 @@ problems .
 - [Advance Tutorials For Scala](https://www.youtube.com/watch?v=tXaH7M--c9o&list=PL15cIG7aNbhshROiDuYpFTwoCRXeyBNYx)
 - [Playframework](https://www.playframework.com/documentation/2.8.x/Home)
 - [Anorm for our database queries and access](https://www.playframework.com/documentation/2.8.x/Anorm#Anorm)
-
+- [Scala Documentation](https://docs.scala-lang.org/)
 
 
 
@@ -72,4 +78,7 @@ problems .
 ## Authors
 
 - [@Mohsen Abedelaal](https://github.com/mohsen-Incrowd)
+
+
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
