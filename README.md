@@ -55,6 +55,13 @@ and is popular in the fields of data science and distributed computing.
 
  *  Concurrency
     - [Future and Promises](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/concurrency/FutureAndPromises.scala)
+    - [Akka](https://github.com/mohsen-Incrowd/scala-training/tree/main/src/lectures/akka)
+
+ * Samples to use in your next ticket 
+    - [Model](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/model/sampleModel.scala)
+    - [Controller](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/controller/sampleController.scala)
+    - [Package to read from the request the json and validate it](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/packages/readAndwriteFromJsonRequest.scala)
+    
 
 
 
