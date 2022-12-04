@@ -25,6 +25,7 @@ and is popular in the fields of data science and distributed computing.
     - [Functions](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/basics/Functions.scala)
     - [Recursion](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/basics/Recursion.scala)
     - [Default Args](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/basics/DefaultArgs.scala)
+    - [What is Implicit](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/basics/ImplicitDefinition.scala)
  
  *  Functional Oriented
     - [What is function](https://github.com/mohsen-Incrowd/scala-training/blob/main/src/lectures/functionaloriented/WhatIsAFunction.scala)
